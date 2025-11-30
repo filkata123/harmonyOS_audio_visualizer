@@ -14,8 +14,10 @@ The use case for this visualizer is simply quality-of-life. I was motivated by m
 3. Visualizes sound.
 
 ## Demo
-[Phone demo]().
-PC demo:
+Since the song I have chosen to use as an example is copyrighted, I can't upload my demos on youtube :( . In any case, all rights are reserved to the original created of the [song](https://www.youtube.com/watch?v=1tHdCULPZHk)!
+Windows demo: Videos/WindowsDemo.mp4
+
+Android demo: Videos/AndroidDemo.mp4
 
 ## Releases
 You can find both an Android apk and a Windows .exe file in the [releases](https://github.com/filkata123/harmonyOS_audio_visualizer/releases).
