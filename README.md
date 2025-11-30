@@ -2,7 +2,7 @@
 _A real-time audio visualizer for mobile & desktop built with Unity._
 
 This project is a proof-of-concept UI effect designed for the Huawei TechArena Finland 2025 hackathon.
-It demonstrates a simple deforming bubble that surrounds a clock. The bubble reacts to music creating a nice visual effect.
+It demonstrates a simple deforming bubble that surrounds a clock showing current time. The bubble reacts to music creating a nice visual effect.
 
 The effect is designed to work on PC and mobile (included builds are for Windows and Android devices for now).
 
@@ -19,6 +19,8 @@ Since the song I have chosen to use as an example is copyrighted, I can't upload
 Windows demo: Videos/WindowsDemo.mp4
 
 Android demo: Videos/AndroidDemo.mp4
+
+![Example image](Images/DemoPic.png)
 
 ## Releases
 You can find both an Android .apk and a Windows .exe file in the [releases](https://github.com/filkata123/harmonyOS_audio_visualizer/releases).
