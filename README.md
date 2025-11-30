@@ -47,6 +47,14 @@ You can find both an Android .apk and a Windows .exe file in the [releases](http
 (make sure that IL2CPP is chosen and ARMv7 + ARM64 are enabled in the Player settings)
 4. Install .apk (might need to allow permissions for non-play-store apps)
 
+## How to use
+Just run the app!
+
+However, if you want to play around with the code, in the scenes you can find the _Bubble_ object which has two scripts _Bubble Mesh Generator_ and _Audio Soft Body_. 
+- _Bubble Mesh Generator_: Initializes bubble. The public variables can be used to change the size and resolution of the bubble.
+- _Audio Soft Body_: Continuously updates the bubble to deform based on the music's frequency. The public variables will change how much the bubble is deforemd.
+One can also find the shader for the bubble under Shaders/BubbleSoftGlass.
+
 ## Future improvements
 This is a very barebones POC that I made in 4 hours on a Sunday. Had I more time to spend on this event I would focus on the following:
 1. Use system sound so that the user can e.g. put Spotify on an experience the visualization of their songs. Instead, right now there is a static song. This is not easily doable in Unity, but can be achieved with some libraries (I think).
