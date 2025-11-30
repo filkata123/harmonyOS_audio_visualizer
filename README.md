@@ -15,6 +15,7 @@ The use case for this visualizer is simply quality-of-life. I was motivated by m
 
 ## Demo
 Since the song I have chosen to use as an example is copyrighted, I can't upload my demos on youtube :( . In any case, all rights are reserved to the original created of the [song](https://www.youtube.com/watch?v=1tHdCULPZHk)!
+
 Windows demo: Videos/WindowsDemo.mp4
 
 Android demo: Videos/AndroidDemo.mp4
@@ -40,7 +41,7 @@ You can find both an Android apk and a Windows .exe file in the [releases](https
 1. File -> Build Settings -> tick Scenes/PhoneScene -> select Android platform
 2. click Switch Platform
 3. click Build
-(make sure that IL2CPP is chosen and ARMv7 + ARM64 are enabled in the Player settings
+(make sure that IL2CPP is chosen and ARMv7 + ARM64 are enabled in the Player settings)
 
 ## Future improvements
 This is a very barebones POC that I made in 4 hours on a Sunday. Had I more time to spend on this event I would focus on the following:
